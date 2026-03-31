@@ -1,14 +1,10 @@
 👋 Hi, I’m @buihuyyy
 
-👀 I’m interested in coding airdrops
-
-💞️ I’m looking to collaborate on airdrop projects
-
-📫 How to reach me: Telegram, Facebook
+👀 I’m interested in cybersecurity
 
 😄 Pronouns: buiih
 
-⚡ Fun fact: I am a student
+⚡I am a student
 
 
 <!---
